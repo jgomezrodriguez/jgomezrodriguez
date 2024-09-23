@@ -5,7 +5,7 @@ I love :heart_eyes: learning languages, I speak fluently 4 languages: spanish, p
 
 In the past, I worked as a seismological analyst at the Geological Colombian Survey (Check it at: https://www.sciencedirect.com/science/article/abs/pii/S0031920121000340?via%3Dihub) after finishing my bachelor degree in Physics. Then, I studied my master degree of nuclear engineering at UniPisa in Italy and worked at the AKR2 and at the Vienna Center for Disarmament and Nonproliferation as intern. 
 
-Nowadays, I'm mastering my skills in deterministic and probabilistic codes in reactor physics (Serpent, OpenMC, Dragon, Geant) to investigate about cross sections data obtention with experiments at the AKR2.
+Nowadays, I'm mastering my skills in deterministic and probabilistic codes in reactor physics (Serpent, OpenMC) to investigate about cross sections data obtention with experiments at the AKR2.
 Reach me at: juan.gomezrodriguez@tu-dresden.de or +393478107063.
 
 My linkedin is: https://www.linkedin.com/in/jujgomezro25/
