@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Juan Jose Gomez Rodriguez from Colombia. (It's Colombia, not Columbia)
-🔭 I am a current researcher PhD student at the AKR2 training nuclear reactor of the TU Dresden, Germany. 
+🔭 I am a current researcher and PhD student at the AKR2 training nuclear reactor of the TU Dresden, Germany. 
 I love :heart_eyes: learning languages, I speak fluently 4 languages: spanish, portuguese, english and italian. Currently, I'm working on my german skills. 
 
 In the past, I worked as a seismological analyst at the Geological Colombian Survey (Check it at: https://www.sciencedirect.com/science/article/abs/pii/S0031920121000340?via%3Dihub) after finishing my bachelor degree in Physics. Then, I studied my master degree of nuclear engineering at UniPisa in Italy and worked at the AKR2 and at the Vienna Center for Disarmament and Nonproliferation as intern. 
 
-Nowadays, I'm mastering my skills in deterministic and probabilistic codes in reactor physics (Serpent, OpenMC) to investigate about cross sections data obtention with experiments at the AKR2.
+Nowadays, I'm mastering my skills in neutronics, thermal-hydraulics, nuclear safety, fuel behaviour and strctural mechanics. Currently, working in a project to investigate about cross sections data obtention with experiments at the AKR2 and in the validation of open-source codes in the nuclear field. 
 Reach me at: juan.gomezrodriguez@tu-dresden.de or +393478107063.
 
 My linkedin is: https://www.linkedin.com/in/jujgomezro25/
