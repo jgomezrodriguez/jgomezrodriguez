@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Juan Jose Gomez-Rodriguez
+
 🔭 I am a current researcher and PhD student at the TU Dresden, Germany. 
+
 I love learning languages.
+
 During my bachelor degree, I worked in geophysics research for earthquake forecasting. During my master, I focused in reactor physics. Now, I am working in neutronics, research reactors and nuclear data. 
 Reach me at: juan.gomezrodriguez@tu-dresden.de or +393478107063.
 My linkedin is: https://www.linkedin.com/in/jujgomezro25/
