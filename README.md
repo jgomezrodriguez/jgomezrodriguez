@@ -6,7 +6,8 @@ I'm Juan Jose Gomez-Rodriguez
 I love learning languages.
 
 During my bachelor degree, I worked in geophysics research for earthquake forecasting. During my master, I focused in reactor physics. Now, I am working in neutronics, research reactors and nuclear data. 
-Reach me at: juan.gomezrodriguez@tu-dresden.de or +393478107063.
+
+📫 Reach me at: juan.gomezrodriguez@tu-dresden.de or +393478107063.
 My linkedin is: https://www.linkedin.com/in/jujgomezro25/
 <!--
 **jgomezrodriguez/jgomezrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
